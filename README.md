@@ -3,6 +3,8 @@
 Bu repo <u>[Kodluyoruz]("https:kodluyoruz.org)</u> Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet
 README dosyası, bir adet de index.html barındırıyor.
 
+![KodluyoruzLogo](https://hizliresim.com/1rd5u3x)
+
 # Installation
 
 Öncelikle projeyi clonlayın.
@@ -27,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 # License
 
-<u>[MIT](https://choosealicense.com/licenses/mit)s
+<u>[MIT](https://choosealicense.com/licenses/mit)
